@@ -72,3 +72,16 @@ File `.typ` hiện có đủ Phần 1 và phần tiến trình, đánh giá, ph�
 6. Thầy đã chốt (24/11, 21:27): giữ nguyên chủ đề "Thiết kế mạch điện cho mô hình nhà thông minh"; hồ sơ nộp bằng Word (.docx) cho cả P1 và P2. Điều kiện "chưa đạt giải" của 12070 vẫn do thầy xác nhận với Sở.
 7. Còn mở: năm sinh, số điện thoại (đang dùng thông tin trong bc-cu), tên bài và số trang SGK Khoa học tự nhiên 9 để đối chiếu.
 8. Tiến độ: P1 (Phần I) làm trước, rồi P2 (giáo án, hướng dẫn học sinh, báo cáo học sinh, phụ lục). File Word đặt trong `ho-so-nop/`.
+
+## 7. Ghi chú P2 (24/11/2026, 22:20) – đã dựng `ho-so-nop/Khoahoctunhien_THCS_Phan-Anh_STEM_P2.docx`
+
+Làm từ `bao-cao/bc-cu.docx`: bỏ Phần tổng quan (đã có ở P1), bỏ cảm biến gas và lửa, 5 nhóm/lớp, mã năng lực số mới, khung prompt AI (không đưa prompt trọn gói), sửa đáp án 4b thành A, rubric đúng 100 điểm (an toàn điện 25, thử nghiệm 15, mạch hoàn thiện 15), phụ lục viết lại từ dữ liệu `học sinh 2` với 8 ảnh không có mặt học sinh.
+
+Cần thầy xác nhận:
+1. Rubric đổi điểm so với bc-cu để cộng đúng 100: bỏ mục "Bố trí hợp lý" khỏi an toàn điện (chuyển vào Hình thức mô hình); vị trí cảm biến 5 điểm; 1 cảm biến tối đa 9 điểm, từ 2 cảm biến tối đa 10 điểm.
+2. Số lượng thiết bị trong bảng (Arduino, cáp, pin: 5 bộ; cút nối 2-2: 10; dây test: 10) là suy ra từ 5 nhóm/lớp.
+3. `[CẦN XÁC NHẬN: ngày dạy thực tế]` ở mục Thời gian thực hiện; `[CẦN LINK: thư mục minh chứng]` ở phụ lục.
+4. Nhóm 9/6-N1 và 9/6-N5 chưa có số liệu thử nghiệm; 9/3-N3 chưa ghi loại cảm biến. Đã đánh dấu `[CẦN SỐ LIỆU]`.
+5. Nhóm 9/6-N2 ghi nguồn 12 V (vượt quy định dưới 9 V): hồ sơ ghi đúng như phiếu.
+6. Chưa đưa điểm trung bình từ `9_3.xlsx`, `9_6.xlsx` vì bảng điểm không gắn được với nhóm nếu không dùng tên học sinh.
+7. Còn mở: tên bài và số trang SGK KHTN 9, năm sinh, số điện thoại (ở P1), điều kiện "chưa đạt giải" với Sở.
