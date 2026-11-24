@@ -54,3 +54,19 @@ File `.typ` hiện có đủ Phần 1 và phần tiến trình, đánh giá, ph�
 - Chủ đề trùng bài đã đạt giải: giữ nguyên hay đổi một phần (đã hỏi Sở chưa).
 - Năm sinh, số điện thoại, thâm niên cho Phần 1.
 - Tên bài, số trang SGK Khoa học tự nhiên 9 để đối chiếu.
+
+## 6. Ghi chú cập nhật (24/11/2026, 21:25) – chốt hướng viết
+
+1. Định dạng: viết bằng Word (.docx), không dùng Typst nữa. File `.typ` chỉ giữ để tham khảo, không sửa thêm.
+2. Cách làm: lấy `bao-cao/bc-cu.docx` làm khuôn, sửa trực tiếp trong Word để giữ nguyên hình thức, ảnh thiết bị và định dạng đạt giải. Không dựng lại từ đầu.
+3. Mức thay đổi so với bc-cu:
+   - Phần tổng quan (Phần I): giống bc-cu. Chỉ cập nhật ngày, năm học, thông tin giáo viên, bộ mã năng lực số mới. Bỏ cảm biến gas.
+   - Giáo án (kế hoạch dạy học): sửa ít. Giữ tiến trình Tiết 1 – 1 tuần ở nhà – Tiết 2; chỉ chỉnh thời gian đủ 45 phút, số nhóm (5 nhóm/lớp), nhật ký AI, rubric không trùng biên.
+   - Báo cáo của học sinh (phần minh chứng, bảng thống kê, ảnh, nhận xét): khác nhiều. Viết mới hoàn toàn từ dữ liệu `học sinh 2`, không chép số liệu năm ngoái.
+4. Tách file theo 12070: P1 = Phần I (tổng quan); P2 = giáo án, phần hướng dẫn học sinh, báo cáo của học sinh, phụ lục. Tên file: `Khoahoctunhien_THCS_Phan-Anh_STEM_P1.docx` và `..._P2.docx`. P2 dưới 50 MB (nén ảnh).
+5. Việc riêng cho báo cáo của học sinh:
+   - Đọc 7 biểu mẫu của 10 nhóm (93 và 96); lập bảng nhóm, cảm biến, số lần thử, số lần đạt, tỉ lệ.
+   - Lấy điểm trung bình từ `9_3.xlsx`, `9_6.xlsx` chỉ dạng tổng hợp theo nhóm; không ghi tên, điểm từng học sinh.
+   - Chọn ảnh từ `Minh chung tren lop` và thư mục từng nhóm; che mặt, tên.
+   - Thiếu số liệu thì ghi `[CẦN SỐ LIỆU: ...]`, không ước lượng.
+6. Chưa quyết (hỏi thầy): chủ đề trùng bài đã đạt giải, cần xác nhận với Sở; năm sinh, số điện thoại, tên bài và số trang SGK.
