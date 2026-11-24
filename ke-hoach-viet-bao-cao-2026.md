@@ -69,4 +69,6 @@ File `.typ` hiện có đủ Phần 1 và phần tiến trình, đánh giá, ph�
    - Lấy điểm trung bình từ `9_3.xlsx`, `9_6.xlsx` chỉ dạng tổng hợp theo nhóm; không ghi tên, điểm từng học sinh.
    - Chọn ảnh từ `Minh chung tren lop` và thư mục từng nhóm; che mặt, tên.
    - Thiếu số liệu thì ghi `[CẦN SỐ LIỆU: ...]`, không ước lượng.
-6. Chưa quyết (hỏi thầy): chủ đề trùng bài đã đạt giải, cần xác nhận với Sở; năm sinh, số điện thoại, tên bài và số trang SGK.
+6. Thầy đã chốt (24/11, 21:27): giữ nguyên chủ đề "Thiết kế mạch điện cho mô hình nhà thông minh"; hồ sơ nộp bằng Word (.docx) cho cả P1 và P2. Điều kiện "chưa đạt giải" của 12070 vẫn do thầy xác nhận với Sở.
+7. Còn mở: năm sinh, số điện thoại (đang dùng thông tin trong bc-cu), tên bài và số trang SGK Khoa học tự nhiên 9 để đối chiếu.
+8. Tiến độ: P1 (Phần I) làm trước, rồi P2 (giáo án, hướng dẫn học sinh, báo cáo học sinh, phụ lục). File Word đặt trong `ho-so-nop/`.
